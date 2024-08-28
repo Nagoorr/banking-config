@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related webhook info APIs "
+  message: "Welcome to EazyBank cards related webhook working APIs "
   contactDetails:
     name: "Nagoor Basha"
     email: "nagoor@gmail.com"
