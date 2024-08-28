@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
-    name: "Nagoor"
+    name: "Nagoor Basha"
     email: "nagoor@gmail.com"
   onCallSupport:
     - (617) 432-2356
